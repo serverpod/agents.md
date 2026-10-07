@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dart Test Coverage Review"
+  short_description: "Audit Dart test coverage through a test-case artifact"
+  default_prompt: "Use $dart-test-coverage-review to audit this Dart or Flutter test suite from a nested test-description artifact."
